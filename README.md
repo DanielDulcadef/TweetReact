@@ -10,29 +10,6 @@ We will be cloning an existing piece of UI from a popular app, Twitter. Let's ge
   <img src="https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/labs/lab-react-tweets-4.png" width="500">
 </p>
 
-## Setup
-
-- Fork this repo
-- Clone this repo
-- Open the LAB and start:
-
-  ```bash
-  $ cd lab-react-tweets
-  $ npm install
-  $ npm start
-  ```
-
-## Submission
-
-- Upon completion, run the following commands:
-
-  ```bash
-  git add .
-  git commit -m "done"
-  git push origin master
-  ```
-
-- Create a Pull Request so that your TAs can check your work.
 
 ## Getting Started
 
