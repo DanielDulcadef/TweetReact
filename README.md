@@ -1,3 +1,5 @@
+![logo GammaTech](https://uploads-ssl.webflow.com/61702b2bca0865831b666952/61783723d9407a44a1829035_gamma_techschool-logo_yellow.png)   
+
 # React Tweets 
 
 ## Introduction
